@@ -1,0 +1,46 @@
+
+  
+.background-image {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/dyy.jpg); 
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9; 
+  }
+
+  .text {
+    position: absolute;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+  }
+
+  .upper-left {
+    top: 10px;
+    left: 10px;
+  }
+  
+  .upper-right {
+    top: 10px;
+    right: 10px;
+  }
+  
+  .center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .bottom-left {
+    bottom: 10px;
+    left: 10px;
+  }
+  
+  .bottom-right {
+    bottom: 10px;
+    right: 10px;
+  }
+  

@@ -1,0 +1,33 @@
+
+.para1 {
+     font-size: 18px; color: blue;
+     }
+.para2
+ { font-weight: bold;
+ }
+.para3
+ { background-color: lightgray; padding: 10px;
+ }
+.para4 
+ { border: 2px solid black; 
+}
+.para5
+ { margin: 20px; 
+}
+.para6
+ { text-transform: uppercase; 
+}
+.para7
+ { text-shadow: 2px 2px 5px black; 
+}
+.para8
+ { line-height: 1.8; 
+}
+.para9
+ { letter-spacing: 2px; 
+}
+.para10
+ { font-family: 'Courier New', Courier, monospace; 
+}
+
+ 
